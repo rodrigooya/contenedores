@@ -1,0 +1,5 @@
+nano /usr/src/app/index.js
+copy console.log('Hello World')
+paste 
+ctrl + O
+enter
